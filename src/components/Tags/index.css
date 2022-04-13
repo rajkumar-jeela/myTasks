@@ -1,0 +1,15 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.button-text {
+  background-color: transparent;
+  border: 1px solid #f3aa4e;
+  border-radius: 12px;
+  color: #f1f5f9;
+  font-size: 16px;
+  font-family: 'Roboto';
+  padding: 12px;
+  margin: 8px;
+}

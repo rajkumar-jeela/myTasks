@@ -1,0 +1,20 @@
+.items {
+  background-color: #1a171d;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-radius: 8px;
+  margin: 15px;
+}
+.user-input {
+  color: #fff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.option {
+  background-color: #f3aa4e;
+  border-radius: 12px;
+  padding: 8px;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
